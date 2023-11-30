@@ -1,0 +1,1 @@
+printf("\nThe total seek time is: %d\n", s);
